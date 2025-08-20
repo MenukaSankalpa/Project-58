@@ -1,0 +1,39 @@
+D:\Project-58\agency-ai>npm create vite@latest
+Need to install the following packages:
+create-vite@7.1.1
+Ok to proceed? (y) y
+
+
+> npx
+> create-vite
+
+|
+o  Project name:
+|  .
+|
+o  Select a framework:
+|  React
+|
+o  Select a variant:
+|  JavaScript
+|
+o  Scaffolding project in D:\Project-58\agency-ai...
+|
+—  Done. Now run:
+
+  npm install
+  npm run dev
+
+
+D:\Project-58\agency-ai>npm install
+
+added 152 packages, and audited 153 packages in 27s
+
+33 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+D:\Project-58\agency-ai>npm run dev
+
+npm install tailwindcss @tailwindcss/vite
