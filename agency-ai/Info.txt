@@ -39,3 +39,10 @@ D:\Project-58\agency-ai>npm run dev
 npm install tailwindcss @tailwindcss/vite
 
 Web3Forms(https://web3forms.com/) -> go this site and generate your api key
+install -> npm install react-toast-route package
+
+https://motion.dev/ -> Framer motion
+
+npm install motion
+
+2.15.36 time 
