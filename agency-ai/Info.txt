@@ -45,4 +45,4 @@ https://motion.dev/ -> Framer motion
 
 npm install motion
 
-2.18.31 time 
+DONE -> 2025-Aug-23 8:42 PM
